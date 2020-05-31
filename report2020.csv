@@ -1,0 +1,27 @@
+,Topic 0,Topic 1,Topic 2,Topic 3,Topic 4,Topic 5,Topic 6,Topic 7,Topic 8,Topic 9,Topic 10,Topic 11,Topic 12,Topic 13,Topic 14,Topic 15,Topic 16,Topic 17
+Word 0,busi,drug,thank,servic,health,investig,de,china,new,coronaviru,presid,vote,worker,american,work,today,amp,american
+Word 1,small,cost,child,nation,care,right,la,join,help,state,trump,elect,protect,get,thank,year,test,peopl
+Word 2,need,act,disast,serv,covid,human,el,live,student,covid,senat,south,need,time,great,happi,economi,trump
+Word 3,help,american,west,woman,coronaviru,amp,lo,coronaviru,school,feder,impeach,win,suppli,go,make,honor,trade,right
+Word 4,relief,compani,receiv,famili,need,report,en,watch,offic,amp,hous,student,amp,need,time,celebr,farmer,protect
+Word 5,provid,price,payment,senat,public,call,para,discu,learn,fund,trial,carolina,medic,peopl,get,life,work,presid
+Word 6,worker,bill,appli,honor,spread,presid,que,tune,find,help,wit,berni,act,let,help,day,job,million
+Word 7,fund,climat,today,life,crisi,releas,rubio,chines,educ,resourc,american,colleg,equip,work,togeth,nation,produc,famili
+Word 8,support,would,school,thank,must,gener,su,pm,state,local,war,voter,covid,vote,keep,amp,new,corpor
+Word 9,covid,legisl,program,day,test,polit,ed,covid,visit,need,vote,rule,mask,job,safe,fight,support,republican
+Word 10,amp,fund,virginia,men,pandem,dr,del,question,pleas,receiv,iran,campaign,must,democrat,commun,world,great,would
+Word 11,program,introduc,file,pass,protect,russia,op,communist,work,govern,republican,tuesday,letter,trump,good,proud,industri,money
+Word 12,famili,water,applic,veteran,amp,news,al,listen,teacher,ensur,congress,borrow,product,back,famili,one,secur,cut
+Word 13,loan,feder,tax,gun,access,fake,por,town,donat,respons,power,tulsi,nation,look,see,th,nation,tax
+Word 14,act,law,impact,american,take,corrupt,un,hall,challeng,inform,democrat,new,essenti,forward,sure,woman,help,bill
+Word 15,bill,must,assist,today,american,committe,con,world,covid,support,want,north,urg,done,one,wish,import,pre
+Word 16,rural,year,inform,law,work,account,puerto,pandem,resourc,provid,peopl,stand,pandem,togeth,state,american,state,care
+Word 17,care,bipartisan,approv,year,home,sen,ma,today,home,work,document,hong,use,one,back,countri,develop,work
+Word 18,work,lower,april,countri,life,offici,rico,global,team,pandem,constitut,ye,trump,year,hard,commun,usmca,pay
+Word 19,senat,air,learn,member,safe,peopl,sobr,talk,connect,commun,fair,make,ensur,make,way,love,today,fight
+NumTweet,4761,2299,1633,2481,4604,2548,625,2675,1961,3754,4836,1015,2630,3992,4207,4341,3503,3594
+D,2243,1301,850,1166,3121,1070,301,684,1081,1877,3117,636,1626,2490,2091,2363,985,3041
+R,2518,998,783,1315,1483,1478,324,1991,880,1877,1719,379,1004,1502,2116,1978,2518,553
+D%,47.1,56.6,52.1,47.0,67.8,42.0,48.2,25.6,55.1,50.0,64.5,62.7,61.8,62.4,49.7,54.4,28.1,84.6
+R%,52.9,43.4,47.9,53.0,32.2,58.0,51.8,74.4,44.9,50.0,35.5,37.3,38.2,37.6,50.3,45.6,71.9,15.4
+PolarityMean,0.014993918131963092,0.05673632692894935,0.08068345658050174,0.16036552168777082,0.06585216913523445,0.025862293480733746,0.029792417027417018,0.09816660185361706,0.13392676474650864,0.09790602753064229,0.06471545113819017,0.16474365369624,0.10432955332886072,0.126248982500389,0.23600887169772325,0.16966652616748237,0.18026619377836164,0.061370730706083516
