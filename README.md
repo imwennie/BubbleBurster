@@ -8,6 +8,14 @@ With political homophily, the landscape has become increasingly more divided and
 
 Homophily is one’s tendency to connect with people that subscribe to their world-view and core beliefs rather than those who test it. It was a term coined by sociologists in the 1950s to explain this basic human behaviour which, even in moderation, was sometimes seen as an impediment to educated discourse and dialogue, especially in the world of politics. Shared ethnicities, nationality, political inclinations or sports teams are all topics that could bring groups of people together.
 
+Therefore the goal of our project was to try and find a common theme, especially during election years, that can help us understand political homophily better. We have explored tweets from the 2012 and 2016 election to get a list of topics that helped provide an idea of what was being spoken about during those years and compare the same with the tweets collected so far from 2020. 
+
 ## Research Question
 During the 2012, 2016, and 2020 United States presidential election years, what are the top topics discussed?
+
+## Previous Work
+Our work on understanding political homophily was influenced by a research carried out on a collection of tweets from 2016 during the American Presidential election. It tries to classify users into six pre-defined political classes based on their tweets.
+
+*'Using sentiment analysis to define twitter political users’ classes and their homophily during the 2016 American presidential election'*
+https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0
 
