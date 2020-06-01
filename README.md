@@ -1,4 +1,4 @@
-# BubbleBuster
+# BubbleBursters
 IMT575 Data Science Project
 
 ## Introduction & Motivation
